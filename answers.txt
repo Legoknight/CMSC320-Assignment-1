@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: We might consider using git so that each member of a group has a copy of the repository so that they can work on their part of an assignment without getting in the way of other group members. This also allows the group to decide on what works best when there is a conflict in what multiple group member were working on.
