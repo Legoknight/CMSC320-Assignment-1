@@ -1,3 +1,8 @@
+
 Q1: Why might be consider using git?
 
 Answer: We might consider using git so that each member of a group has a copy of the repository so that they can work on their part of an assignment without getting in the way of other group members. This also allows the group to decide on what works best when there is a conflict in what multiple group member were working on.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the field of medical science by giving the medical records and patient demographics to help determine when a pandemic may occur, as well as the optimal treatment plan to keep a patient healthy or to keep their condition from becoming worse.
