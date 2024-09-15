@@ -6,3 +6,9 @@ Answer: We might consider using git so that each member of a group has a copy of
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to the field of medical science by giving the medical records and patient demographics to help determine when a pandemic may occur, as well as the optimal treatment plan to keep a patient healthy or to keep their condition from becoming worse.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: While merging puts two branches back together into one branch, rebasing will take one branch and change the branch so that the changes from another branch are added to the first branch.
+
